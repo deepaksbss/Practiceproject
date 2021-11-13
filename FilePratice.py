@@ -6,7 +6,7 @@ def searchName():
     for line in out:
         if scr == line[1]:
             print(line)
-    print('Thanks for searching the information')
+    
 def searchsalary():
     scr= input('enter the employe salary')
     f = open('afilecsv.csv', 'r+')
