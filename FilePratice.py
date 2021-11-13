@@ -19,13 +19,3 @@ def searchsalary():
 if scr == 1:
     searchName()
 
-    import csv
-
-    f = open('afilecsv.csv', 'r')
-    data = csv.reader(f)
-    out = list(data)
-    for line in out:
-        for word in line:
-            print(word, '\t', end='')
-        print()
-
