@@ -1,7 +1,7 @@
 import os,sys
 fname=input('Enter the file name')
 if os.path.isfile(fname):
-    f=open(fname,'r')
+   'r')
 
 
 
