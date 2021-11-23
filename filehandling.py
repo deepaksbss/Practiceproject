@@ -6,7 +6,7 @@
 
     lcount=lcount+1
     ccount=ccount+len(i)
-    words=i.split()
+    words=i.split()..............................
     print(words)
     wcount=wcount+len(words)
 print(lcount)
