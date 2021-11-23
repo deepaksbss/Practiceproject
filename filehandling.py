@@ -1,6 +1,4 @@
-import os,sys
-fname=input('Enter the file name')
-if os.path.isfile(fname):
+
    'r')
 
 
