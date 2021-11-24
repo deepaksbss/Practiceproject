@@ -7,18 +7,7 @@ def searchName():
         if scr == line[1]:
             print(line)
 
-    def searchName():
-        scr = input('enter the name of the employee to retrive the record')
-        f = open('afilecsv.csv', 'r+')
-        out = csv.reader(f)
-        for line in out:
-            if scr == line[1]:
-                print(line)
-
-                d
-                        if scr == line[1]:
-                            print(line)
-def searchsalary():
+    def searchName()def searchsalary():
     scr= input('enter the employe salary')
     f = open('afilecsv.csv', 'r+')
     out = csv.reader(f)
