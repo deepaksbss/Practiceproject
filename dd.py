@@ -1,4 +1,4 @@
-Sample code values
+Sampl
 D
 
 D
