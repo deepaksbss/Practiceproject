@@ -16,6 +16,4 @@ def searchName():
             print(line)
 
 
-if scr == 1:
-    searchName()
 
