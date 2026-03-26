@@ -1,4 +1,4 @@
-Sampl
+Samp
 D
 
 
