@@ -10,4 +10,4 @@
     wcount=wcount+len(words)mplm pkvsdnvpknnnnnnnnnnnnnn
 print(lcount)
 print(ccount)
-print(wcount)
+print(wcount)]]]]]]]]]]]]
