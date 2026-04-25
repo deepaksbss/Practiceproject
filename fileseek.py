@@ -10,4 +10,4 @@ with open('asample1.txt','r+'):
     f.write('learning python')
     f.seek(0)
     t=f.read()
-    print(t)
+    
