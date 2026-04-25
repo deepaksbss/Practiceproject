@@ -1,7 +1,7 @@
 data="All Students are STUPIDS"
 f=open("asample1.txt","w")
 f.write(data)
-with open('asample1.txt','r+') as f:
+with open('asample1.txt','r+'):
     sm = f.read()
     print(sm)
     print(f.tell())
