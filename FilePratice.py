@@ -1,4 +1,4 @@
-import 
+
 def searchName():
     scr=input('enter the name of the employee to retrive the record')
     f=open('afilecsv.csv','r+')
