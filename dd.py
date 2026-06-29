@@ -1,6 +1,6 @@
 Samp
 
-this is my new 
+this is my 
 
 
 
