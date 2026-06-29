@@ -4,7 +4,7 @@ def searchName():
     f=open('afilecsv.csv','r+')
     out=csv.reader(f)
     for line in out:
-        if scr == line[1]:
+        if scr == 
             print(line)
 
     def searchName()def searchsalary():
